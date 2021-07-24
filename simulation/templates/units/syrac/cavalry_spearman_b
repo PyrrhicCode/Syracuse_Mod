@@ -35,6 +35,9 @@
     <Tooltip>Counters: 1.75× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
   </Identity>
+  <Promotion>
+    <Entity>units/syrac/cavalry_spearman_a</Entity>
+  </Promotion>
   <Resistance>
     <Entity>
       <Damage>
@@ -48,4 +51,7 @@
       <attack_melee>attack/weapon/spear_attack.xml</attack_melee>
     </SoundGroups>
   </Sound>
+  <VisualActor>
+    <Actor>units/syracusans/cavalry_spearman_b_m.xml</Actor>
+  </VisualActor>
 </Entity>
