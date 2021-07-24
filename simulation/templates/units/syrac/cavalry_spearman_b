@@ -26,7 +26,12 @@
     </Resources>
   </Cost>
   <Identity>
-    <GenericName>Cavalry Spearman</GenericName>
+    <Civ>syrac</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/syrac/cavalry_spearman_b</SelectionGroupName>
+    <GenericName>Thessalian Lancer</GenericName>
+    <SpecificName>Xystophóros Áristes</SpecificName>
+    <Icon>units/syrac/cavalry_spearman.png</Icon>
     <Tooltip>Counters: 1.75× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
   </Identity>
