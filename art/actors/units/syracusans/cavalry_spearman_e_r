@@ -9,7 +9,8 @@
         <prop actor="props/units/weapons/spear_lance_cavalry.xml" attachpoint="weapon_R"/>
       </props>
       <textures>
-        <texture file="skeletal/spart_phalangite_officer.dds" name="baseTex"/>
+        <texture file="skeletal/hele_cuirass_2_a.png" name="baseTex"/>
+        <texture file="skeletal/hele_cuirass_2_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
