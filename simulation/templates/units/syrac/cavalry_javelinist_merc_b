@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="merc_cav|template_unit_cavalry_ranged_javelineer">
+  <Cost>
+    <Resources>
+      <food>50</food>
+      <metal>50</metal>
+    </Resources>
+  </Cost>
   <Identity>
-    <Civ>ptol</Civ>
+    <Civ>syra</Civ>
     <SelectionGroupName>units/syrac/cavalry_javelinist_merc_b</SelectionGroupName>
     <GenericName>Tarantine Cavalry</GenericName>
     <SpecificName>Hippeús Tarantînos</SpecificName>
