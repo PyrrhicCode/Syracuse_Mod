@@ -8,7 +8,7 @@
         <prop actor="units/syracusans/hero_cavalry_spearman_gelon_r.xml" attachpoint="rider"/>
         <prop actor="props/horse/cav_blanket_sele.xml" attachpoint="root"/>
         <prop actor="props/horse/cav_rein_leather.xml" attachpoint="root"/>
-		<prop actor="props/horse/cav_armor_kart.xml" attachpoint="root"/>
+	<prop actor="props/horse/cav_armor_kart.xml" attachpoint="root"/>
       </props>
     </variant>
   </group>
