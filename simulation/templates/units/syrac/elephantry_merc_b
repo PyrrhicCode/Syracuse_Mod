@@ -28,7 +28,7 @@
   <Identity>
     <Civ>syrac</Civ>
     <GenericName>North African War Elephant</GenericName>
-    <SpecificName>Liboukes Eléphantos</SpecificName>
+    <SpecificName>Eléphantos Liboukes</SpecificName>
     <Classes datatype="tokens">AfricanElephant</Classes>
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>
     <Icon>units/elephantry_merc.png</Icon>
