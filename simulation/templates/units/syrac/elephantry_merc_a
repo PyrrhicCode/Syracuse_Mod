@@ -7,6 +7,6 @@
     <Entity>units/syrac/elephantry_merc_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracusans/elephantry_merc.xml</Actor>
+    <Actor>units/syracusans/elephantry_merc_m.xml</Actor>
   </VisualActor>
 </Entity>
