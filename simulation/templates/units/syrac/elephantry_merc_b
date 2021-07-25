@@ -5,8 +5,8 @@
     <Melee>
       <AttackName>Trunk</AttackName>
       <Damage>
-        <Hack>18</Hack>
-        <Crush>60</Crush>
+        <Hack>20</Hack>
+        <Crush>40</Crush>
       </Damage>
       <MaxRange>5</MaxRange>
       <PrepareTime>750</PrepareTime>
@@ -18,8 +18,8 @@
     <Population>2</Population>
     <BuildTime>23</BuildTime>
     <Resources>
-      <food>150</food>
-      <metal>300</metal>
+      <food>200</food>
+      <metal>200</metal>
     </Resources>
   </Cost>
   <Health>
