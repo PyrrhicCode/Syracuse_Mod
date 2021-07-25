@@ -11,7 +11,7 @@
       <metal>35</metal>
     </Resources>
   <Identity>
-    <Civ>syrac</Civ>
+    <Civ>syra</Civ>
     <GenericName>Lucanian Swordsman</GenericName>
     <SpecificName>Pezos Leukaniotes</SpecificName>
     <SelectionGroupName>units/syrac/infantry_swordsman_merc_b</SelectionGroupName>
