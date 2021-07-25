@@ -26,7 +26,7 @@
     <Max>500</Max>
   </Health>
   <Identity>
-    <Civ>syrac</Civ>
+    <Civ>syra</Civ>
     <GenericName>North African War Elephant</GenericName>
     <SpecificName>Eléphantos Liboukes</SpecificName>
     <Classes datatype="tokens">AfricanElephant</Classes>
